@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AP</string>
+    <string name="a1">A1</string>
+    <string name="a2">A2</string>
+    <string name="a3">A3</string>
+    <string name="hello_world">Hello World</string>
+    <string name="reserve">Reserve</string>
+    <string name="vehicle_number">vehicle number</string>
+    <string name="set_arriving_time">set arriving time</string>
+    <string name="username">username</string>
+
+</resources>
